@@ -48,12 +48,13 @@ a fixed height*/
     width: 200px;
     height: 70px;
     margin: 20px;
+    cursor: pointer;
 }
 
 /*style footer*/
 
 .footer {
-    background-color: #eee;
+    background-color: #c4c2c2;
     font-size: 15px;
     padding: 20px 0 10px;
 }
