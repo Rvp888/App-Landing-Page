@@ -50,6 +50,14 @@ a fixed height*/
     margin: 20px;
 }
 
+/*style footer*/
+
+.footer {
+    background-color: #eee;
+    font-size: 15px;
+    padding: 20px 0 10px;
+}
+
 /*Add styling for devices between 480px and 768px*/
 @media (min-width: 480px) and (max-width: 768px) {
     .jumbotron {
